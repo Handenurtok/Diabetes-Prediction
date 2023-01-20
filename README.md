@@ -1,5 +1,7 @@
 # Diabetes-Prediction
 
+"LINK": https://handenurtok-diabetes-prediction-main-u3qres.streamlit.app/
+
 
 ## 📃 Intro
 This web app help you to check for early diabetes.
